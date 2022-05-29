@@ -1,0 +1,14 @@
+.Footer {
+    margin: 0;
+    border: none;
+    font-family: "Exo", sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+
+.rowFooter {
+    width: 100%;
+    justify-content: space-between;
+    margin: 20px;
+  }
+
